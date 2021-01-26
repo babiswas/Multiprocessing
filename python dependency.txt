@@ -1,0 +1,17 @@
+Absolute and Relative import in Python:
+1.System.modules(Cache)
+2.Standard Library
+3.System Path
+
+
+Style of importing(PEP 8)
+standard library
+third party
+local imports
+
+
+python -m test1.test3
+
+
+
+
